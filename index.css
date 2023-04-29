@@ -1,0 +1,62 @@
+body {
+    background-color: beige;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.heading {
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading h1{ 
+    font-size: 100px;
+}
+
+.heading h6 {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 375px;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+tr:first-of-type {
+    background-color: azure;
+}
+
+td {
+    border: solid 1px rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.even {
+    background-color: brown;
+    color: white;
+}
+
+.odd {
+    background-color: burlywood;
+    color: white;
+}
+
+
